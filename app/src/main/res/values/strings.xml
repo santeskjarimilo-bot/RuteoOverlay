@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ruteo Overlay</string>
+    <string name="accessibility_service_description">Permite a Ruteo Overlay leer la tarifa y distancia mostradas en tu app de viajes/domicilios para calcular tu ganancia en tiempo real. No se envía ni guarda información fuera del celular.</string>
+</resources>
