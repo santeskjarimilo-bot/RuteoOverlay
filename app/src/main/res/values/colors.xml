@@ -1,0 +1,8 @@
+<resources>
+    <color name="blue">#1565FF</color>
+    <color name="blue_dark">#0D47CC</color>
+    <color name="green">#1FA855</color>
+    <color name="yellow">#D9A600</color>
+    <color name="red">#E5342E</color>
+    <color name="bg">#F5F6F8</color>
+</resources>
